@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-sdfgfguisbifsdbi
+It displays PHILIPPINE IC DESIGN BOOTCAMP 2026! 
+based from this https://github.com/jar/ttsky25a_vga_glyph_mode/blob/main/docs/info.md
 
 ## How to test
 
-sfgsuyffsbuyfbsduycb
+based from this https://github.com/jar/ttsky25a_vga_glyph_mode/blob/main/docs/info.md
 
 ## External hardware
 
-dfbjhvbdfiuvbdifuvniudfvb
+based from this https://github.com/jar/ttsky25a_vga_glyph_mode/blob/main/docs/info.md
