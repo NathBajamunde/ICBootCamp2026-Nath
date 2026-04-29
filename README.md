@@ -1,4 +1,7 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/wokwi_test/badge.svg) ![](../../workflows/fpga/badge.svg)
+# IEEE IC Bootcamp Practice Project
+
+This project serves as a practice project for IEEE IC Bootcamp
 
 # Tiny Tapeout Wokwi Project Template
 
